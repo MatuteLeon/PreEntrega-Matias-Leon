@@ -1,0 +1,47 @@
+/*
+A continuación se detallan las consignas que debes cumplir con tu pre-entrega
+
+1)Ingreso de producto 
+    Implementar una funcionalidad para agregar productos con:
+        Nombre (String)
+        Precio(Double)
+        Cantidad en Stock (int)
+    Almacenarlos en una colección dinámica(ArrayList<Producto>)
+
+2) Visualización de productos
+    Listar todos los productos, mostrando:
+        ID(autogenerado o posición en la lista);
+        Nombre, Precio, Stock
+    El sistema debe mostrar un menú con la opción de "Listar Productos"
+3)Busqueda y actualización
+    Permitir buscar un producto por nombre o ID
+    Si se encuentra, mostrar su información.
+    Poder actulizar algunos datos(precio o stock) validando que los valores sean coherentes.
+4)Eliminación de productos
+    Habilitar la eliminación de un producto por ID o por posición.
+    Pedir confirmación antes de borrarlo.
+5)Creación de pedidos
+    Implementar la clase Pedido que incluya
+        Lista de productos
+    Solicitar al usuario que productos desea y en que cantidad.
+    Verificar stock: si no alcanza, lanzar una excepción.
+    Calcular el costo total(agregar promociones)
+    Disminuir el stock de cada producto si el pedido se confirma.
+    Mostrar una lista de pedidos realizados.
+6)Menu principal interactivo
+    Presentar un menú con opciones como:
+        Agregar producto
+        Listar Productos
+        Buscar/Actualizar productos
+        Eliminar producto
+        Crear un pedido
+        Listar pedidos
+        Salir
+    El programa se repite hasta que el usuario elija "Salir"
+7)POO y Principos de diseño
+    Dividir la lógica en clases y metodos:
+        Producto, pedido, Main, etc.
+    Emplear encapsulamiento
+    Añadir herencia/polimorfismo.
+
+*/
