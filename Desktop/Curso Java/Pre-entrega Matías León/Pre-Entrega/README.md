@@ -1,18 +1,25 @@
-## Getting Started
+##Bievenido##
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+##Inicie el proyecto orientado a una pet shop que es donde trabajo actualmente, ya para la entrega final lo hago orientado al cafe como piden, donde puedo aplicar los conceptos de herencia y abstracción
 
-## Folder Structure
+Tengo la idea de crear la clase padre de manera abstracta y desde ahi que todos hereden
 
-The workspace contains two folders by default, where:
+##Tengo las siguiente funcionalidades:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+***Creacion de carrito
+***Crear producto
+***Buscar producto y eliminarlo
+***Mostrar la lista de productos
+***Validaciones
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+**Faltan aplicar ideas de
+Buscar en el ticket del cliente si quiere agregar un producto que ya tenia, simplemente hacer +1
+Aplicar promociones bancarias o la segunda al 35%
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Aplicar descuento segun con que pague o interes si lo hace con cuotas
 
-## Dependency Management
+Falta agregar un eliminar del stock cuando la compra se efectue.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Espero correcciones
+
+Saludos cordiales y excelente curso!!!
